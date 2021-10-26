@@ -17,7 +17,7 @@ yarn webpack-cli serve
 ```
 
 # environment
-rustc: 1.56.0
-npm: 8.1.0
-yarn: 1.22.10
-node: v16.13.0
+rustc: 1.56.0  
+npm: 8.1.0  
+yarn: 1.22.10  
+node: v16.13.0  
